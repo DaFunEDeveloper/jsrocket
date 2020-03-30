@@ -3,7 +3,9 @@
 <head>
 	<title>JS Rocket</title>
 	<script type="text/javascript">
-		
+		var doCoolStuff = function () {
+			document.getElementById('cool').className = 'cool red';
+		}
 	</script>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
@@ -12,7 +14,7 @@
 	<a href="#" onclick="doCoolStuff();">
 	CLICK ME</a>
 
-	<div class="cool">
+	<div class="cool" id="cool">
 		<p>Hello I'm cool!</p>
     </div>
 </body>
