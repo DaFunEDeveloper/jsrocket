@@ -3,6 +3,7 @@ body{
 }
 
 .cool{
+	display: none;
 	width: 100px;
 	height: 100px;
 	background-color: green;
@@ -10,5 +11,6 @@ body{
 }
 
 .cool.red{
+	display: block;
 	background-color: red;
 }
