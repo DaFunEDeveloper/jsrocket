@@ -46,7 +46,10 @@ body.body-state4 .rocket{
 	background-image: url('../img/rocket-state3.png');
 }
 body.body-state5 .rocket{
-
+	background-image: url('../img/boom.png');
+	width: 209px;
+	height: 200px;
+	margin-left: -104.5px;
 }
 
 body.body-state1 .rocket{
