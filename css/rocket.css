@@ -25,6 +25,15 @@
 	height: 20px;
 }
 
+.nervous{
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	background: url('../img/nervous.png') no-repeat center center;
+	width: 223px;
+	height: 100px;
+}
+
 .rocket{
 	position: absolute;
 	left: 50%;
