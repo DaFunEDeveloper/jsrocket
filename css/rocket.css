@@ -12,6 +12,13 @@
 	padding: 20px;
 }
 
+a.button{
+	display: inline-block;
+	background-color: lightgreen;
+	color: black;
+	
+}
+
 .right{
 	position: fixed;
 	background-color: white;
