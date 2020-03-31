@@ -25,6 +25,11 @@ a.button{
 	text-decoration: none;
 	border-radius: 10px
 	text-transform: uppercase;
+	transition: color 300ms;
+}
+
+a.hover{
+	background-color: green
 }
 
 .right{
