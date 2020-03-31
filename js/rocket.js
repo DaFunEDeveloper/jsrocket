@@ -15,6 +15,16 @@ var changeState = function (state) {
 			document.getElementById("countdown").
 			innerHTML = countdownNumber;
 		
+		if(countdownNumber == 5) {
+			//be nervous
+			document.getElementById('nervous').classname = 'nervous show';
+		};
+
+		if(countdownNumber == 3) {
+			//cant wait
+		}
+
+
 		if(countdownNumber <= 0) {
 			changeState(3);
 		};
