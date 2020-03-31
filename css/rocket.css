@@ -16,7 +16,8 @@ a.button{
 	display: inline-block;
 	background-color: lightgreen;
 	color: black;
-	
+	padding: 40px;
+	text-transform: uppercase;
 }
 
 .right{
