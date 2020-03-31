@@ -27,11 +27,14 @@
 
 .nervous{
 	position: absolute;
+	bottom: 300px;
 	top: 100px;
-	left: 100px;
+	left: 50%;
 	background: url('../img/nervous.png') no-repeat center center;
 	width: 223px;
 	height: 100px;
+	margin-left: -190px;
+
 }
 
 .rocket{
