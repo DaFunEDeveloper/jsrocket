@@ -7,6 +7,11 @@
 	left: 0;
 }
 
+.interface{
+	text-align: center;
+	padding: 20px;
+}
+
 .right{
 	position: fixed;
 	background-color: white;
