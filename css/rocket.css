@@ -36,9 +36,23 @@
 	transition: bottom 10000ms;
 }
 
+/* rocket bg image*/
+body.body-state2 .rocket{
+	background-image: url('../img/rocket-state2.png');
+}
+
+body.body-state3 .rocket,
+body.body-state4 .rocket{
+	
+}
+body.body-state5 .rocket{
+
+}
+
 body.body-state1 .rocket{
 	transition: none;
 }
+
 
 body.body-state3 .rocket,
 body.body-state4 .rocket{
