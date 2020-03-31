@@ -15,7 +15,7 @@ var changeState = function (state) {
 			document.getElementById("countdown").
 			innerHTML = countdownNumber;
 		
-		if(countdownNumber > 3 && countdownumber < 7) {
+		if(countdownNumber > 3 && countdownumber < 8) {
 			//be nervous
 			document.getElementById('nervous').classname = 'nervous show';
 		} else {
