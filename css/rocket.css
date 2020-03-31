@@ -17,7 +17,7 @@
 }
 
 .ground{
-	background-color: green;
+	background: url('../img/ground.png') no-repeat center center;
 	position: absolute;
 	bottom: 0;
 	left: 0;
