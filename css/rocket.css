@@ -34,8 +34,14 @@
 	width: 223px;
 	height: 100px;
 	margin-left: -190px;
+	display: none;
 
 }
+
+.nervous.show{
+	display: block;
+}
+
 
 .rocket{
 	position: absolute;
