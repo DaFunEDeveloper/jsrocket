@@ -43,7 +43,7 @@ body.body-state2 .rocket{
 
 body.body-state3 .rocket,
 body.body-state4 .rocket{
-	
+	background-image: url('../img/rocket-state3.png');
 }
 body.body-state5 .rocket{
 
