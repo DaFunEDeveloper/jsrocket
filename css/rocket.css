@@ -28,7 +28,7 @@ a.button{
 	transition: color 300ms;
 }
 
-a.hover{
+a:hover{
 	background-color: green
 }
 
